@@ -1,1 +1,1 @@
-visit it here https://airidas0.github.io/RandomNumberGenerator/
+Visit it here: https://airidas0.github.io/random/
