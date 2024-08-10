@@ -45,6 +45,7 @@
      font-size: 1em;
      color: black;
      background-color: hsl(0, 0%, 86%);
+     touch-action: manipulation;
  
  }
  
